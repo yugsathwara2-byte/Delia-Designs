@@ -17,7 +17,7 @@ const Navbar = () => {
     <nav className={`navbar ${isScrolled ? 'navbar-scrolled' : ''}`}>
       <div className="navbar-container container">
         <a href="/" className="navbar-logo">
-          DELIA DESIGNS
+          DELIA DESIGN
         </a>
         <div className="navbar-links desktop-only">
           <a href="#about">About</a>

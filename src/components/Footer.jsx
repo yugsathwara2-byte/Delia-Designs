@@ -7,7 +7,7 @@ const Footer = () => {
       <div className="container">
         <div className="footer-grid">
           <div className="footer-brand">
-            <h3 className="footer-logo">DELIA DESIGNS</h3>
+            <h3 className="footer-logo">DELIA DESIGN</h3>
             <p className="footer-tagline">Elevating spaces through thoughtful design.</p>
           </div>
           
@@ -32,7 +32,7 @@ const Footer = () => {
         </div>
         
         <div className="footer-bottom">
-          <p>&copy; {new Date().getFullYear()} Delia Designs. All Rights Reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Delia Design. All Rights Reserved.</p>
         </div>
       </div>
     </footer>
