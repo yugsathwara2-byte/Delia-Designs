@@ -6,7 +6,7 @@ const Hero = () => {
     <section className="hero">
       <div className="hero-background">
         <img 
-          src="https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&q=80&w=2500" 
+          src="https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&q=60&w=1600" 
           alt="Luxury Interior Design" 
           className="hero-image"
         />

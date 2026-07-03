@@ -18,7 +18,7 @@ const AboutSection = () => {
           </div>
           <div className="about-image-wrapper slide-up stagger-2">
             <img 
-              src="https://images.unsplash.com/photo-1586023492125-27b2c045efd7?auto=format&fit=crop&q=80&w=1000" 
+              src="https://images.unsplash.com/photo-1586023492125-27b2c045efd7?auto=format&fit=crop&q=60&w=600" 
               alt="Tina Delia - Delia Design" 
               className="about-image"
             />

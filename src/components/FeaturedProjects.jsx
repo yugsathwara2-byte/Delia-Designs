@@ -6,19 +6,19 @@ const projects = [
     id: 1,
     title: "Front Street Lofts",
     category: "Hospitality & Multi-Family",
-    image: "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&q=80&w=1500",
+    image: "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&q=60&w=800",
   },
   {
     id: 2,
     title: "The Commonwealth",
     category: "Residential",
-    image: "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?auto=format&fit=crop&q=80&w=1500", 
+    image: "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?auto=format&fit=crop&q=60&w=800", 
   },
   {
     id: 3,
     title: "The Edison",
     category: "Hospitality",
-    image: "https://images.unsplash.com/photo-1598928506311-c55ded91a20c?auto=format&fit=crop&q=80&w=1500",
+    image: "https://images.unsplash.com/photo-1598928506311-c55ded91a20c?auto=format&fit=crop&q=60&w=800",
   }
 ];
 
