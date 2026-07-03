@@ -1,0 +1,48 @@
+.testimonials-section {
+  text-align: center;
+}
+
+.testimonial-container {
+  max-width: 900px;
+  margin: 0 auto;
+  position: relative;
+}
+
+.testimonial-quote {
+  font-family: var(--font-serif);
+  font-size: clamp(1.25rem, 3vw, 2rem);
+  color: var(--color-text);
+  line-height: 1.5;
+  margin-bottom: var(--spacing-md);
+  font-style: italic;
+}
+
+.testimonial-quote::before {
+  content: '“';
+  font-size: 4rem;
+  color: var(--color-accent);
+  position: absolute;
+  top: -2rem;
+  left: -2rem;
+  opacity: 0.5;
+}
+
+.testimonial-client {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.client-name {
+  font-family: var(--font-sans);
+  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-weight: 500;
+}
+
+.client-project {
+  color: var(--color-text-light);
+  font-size: 0.875rem;
+  font-style: italic;
+}
